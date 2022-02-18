@@ -1,1 +1,3 @@
-print("bye world !!")
+print("bye world !!") 
+
+first_name = "Kenasia"
